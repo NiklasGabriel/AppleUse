@@ -16,33 +16,33 @@
                 <li><a href="article.php?path=die_basics/die_ios_u_ipados_oberfläche.php">Die iOS & iPadOS Oberfläche</a></li>
                 <li><a href="article.php?path=die_basics/apps.php">Apps</a></li>
             </ol>
-            <li><a href="">Die Standart Apps</a></li>
+            <li><a href="article.php?path=die_standart_apps.php">Die Standart Apps</a></li>
             <ol>
-                <li><a href="">Finder</a></li>
-                <li><a href="">Safari</a></li>
-                <li><a href="">Systemeinstellungen</a></li>
-                <li><a href="">Mail</a></li>
-                <li><a href="">Nachrichten</a></li>
-                <li><a href="">Notitzen</a></li>
-                <li><a href="">Kalender</a></li>
-                <li><a href="">Kontakte</a></li>
-                <li><a href="">Erinnerungen</a></li>
-                <li><a href="">Musik</a></li>
+                <li><a href="article.php?path=die_standart_apps/finder.php">Finder</a></li>
+                <li><a href="article.php?path=die_standart_apps/safari.php">Safari</a></li>
+                <li><a href="article.php?path=die_standart_apps/systemeinstellungen.php">Systemeinstellungen</a></li>
+                <li><a href="article.php?path=die_standart_apps/mail.php">Mail</a></li>
+                <li><a href="article.php?path=die_standart_apps/nachrichten.php">Nachrichten</a></li>
+                <li><a href="article.php?path=die_standart_apps/notitzen.php">Notitzen</a></li>
+                <li><a href="article.php?path=die_standart_apps/kalender.php">Kalender</a></li>
+                <li><a href="article.php?path=die_standart_apps/kontakte.php">Kontakte</a></li>
+                <li><a href="article.php?path=die_standart_apps/erinnerungen.php">Erinnerungen</a></li>
+                <li><a href="article.php?path=die_standart_apps/musik.php">Musik</a></li>
             </ol>
-            <li><a href="">iCloud</a></li>
+            <li><a href="article.php?path=icloud.php">iCloud</a></li>
             <ol>
-                <li><a href="">Text</a></li>
+                <li><a href="article.php?path=icloud/appleid.php">AppleID</a></li>
             </ol>
-            <li><a href="">Tipps und Triks</a></li>
+            <li><a href="article.php?path=tipps_und_triks.php">Tipps und Triks</a></li>
             <ol>
-                <li><a href="">Spotlight Suche</a></li>
-                <li><a href="">Empfelenswerte Einstellungen</a></li>
-                <li><a href="">Praktische Kurzbefehle</a></li>
+                <li><a href="article.php?path=tipps_und_triks/spotlight-suche.php">Spotlight-Suche</a></li>
+                <li><a href="article.php?path=tipps_und_triks/empfelenswerte_einstellungen.php">Empfelenswerte Einstellungen</a></li>
+                <li><a href="article.php?path=tipps_und_triks/praktische_kurzbefehle.php">Praktische Kurzbefehle</a></li>
             </ol>
-            <li><a href="">Praktische Apps</a></li>
+            <li><a href="article.php?path=praktische_apps.php">Praktische Apps</a></li>
             <ol>
-                <li><a href="">WhatsApp Web</a></li>
-                <li><a href="">Signal</a></li>
+                <li><a href="article.php?path=praktische_apps/whatsapp_web.php">WhatsApp Web</a></li>
+                <li><a href="article.php?path=praktische_apps/signal_for_mac.php">Signal for Mac</a></li>
             </ol>
         </ol>
     </div>
