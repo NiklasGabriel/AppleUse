@@ -44,6 +44,10 @@
                 <li><a href="article.php?path=praktische_apps/whatsapp_web.php">WhatsApp Web</a></li>
                 <li><a href="article.php?path=praktische_apps/signal_for_mac.php">Signal for Mac</a></li>
             </ol>
+            <li><a href="article.php?path=ohne_zugehörigkeit.php">Ohne Zugehörigkeit</a></li>
+            <ul>
+                <li><a href="article.php?path=ohne_zugehörigkeit/papierkorb.php">Papierkorb</a></li>
+            </ul>
         </ol>
     </div>
 </body>

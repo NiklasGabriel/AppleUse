@@ -4,6 +4,7 @@
         <div class="preview_texts">
             <p class="preview_header">Die iOS und iPasOS Oberfläche</p>
             <p class="preview_text">Erklärung von Dock, Home und Speerbildschirm, Appmediathek</p>
+            <br>
         </div>
     </a>
 </div>
