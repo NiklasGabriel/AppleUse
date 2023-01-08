@@ -175,6 +175,9 @@ li {
     margin-bottom: 25px;
     text-align: justify;
 }
+.article a {
+    text-decoration: underline;
+}
 .article {
     color: #252525;
     margin: 30px 10%;

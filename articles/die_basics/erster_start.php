@@ -18,7 +18,7 @@
     </table>
     <br>
     <hr>
-    <h2>Die Basics</h2>
+    <h2>Weitere Artikel</h2>
     <div class="scroll_preview">
         <div class="scroll_content">
             <?php include("previews/die_basics/die_macos_oberfläche.php");?>

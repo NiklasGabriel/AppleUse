@@ -52,6 +52,12 @@
                 <?php include("previews/praktische_apps/signal_for_mac.php");?>
             </div>
         </div>
+        <h2>Sonstiges</h2>
+        <div class="scroll_preview">
+            <div class="scroll_content">
+                <?php include("previews/ohne_zugehörigkeit/papierkorb.php");?>
+            </div>
+        </div>
     </div>
 </body>
 </html>
