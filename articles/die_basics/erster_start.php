@@ -5,7 +5,7 @@
     <p>In diesem Abschnitt bekommst du eine Einführung in das erstmalige Anschlten des Gerätes.</p>
     <ol>
         <img class="article_img_right" src="articles/die_basics/erster_start/hallo.png" alt="">
-        <li><p>Nach dem Auspacken ist das Anschlten der Erste Schritt! Ein iPhone oder iPad schaltest du mit einem lagen Klick auf den oberen bzw. seitlichen Knopf. Halte ihn 5 Sekunden gedrückt.</p></li>
+        <li><p>Nach dem Auspacken ist das Anschlten der Erste Schritt! Ein iPhone oder iPad schaltest du mit einem lagen Klick auf den oberen bzw. seitlichen Knopf. Halte ihn 5 Sekunden gedrückt. Ein iMac wird mit einem mit dem drücken des Powerbuttons auf der Rückseite angeschalten, das MacBook wird mit geladener Baterie geliefert und geht beim aufklappen selber an!</p></li>
         <li><p>Nun erscheint der Startbildschirm. In verschiedenen Sprachen wird animimiert "Hallo" auf deinen Bildschirm geschrieben. Um Fortzufahren klicke mit Maus oder Trackpad, drücke den Homebutton oder wische von dem unteren Bildschirmrand nach oben.</p></li>
         <li><p>In den Folgenden Schritten hast du die Möglichkeit weitere Funktionen direkt zu Aktivieren oder erst später zu Aktivieren.</p></li>
     </ol>

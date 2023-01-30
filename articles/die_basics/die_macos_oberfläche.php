@@ -28,6 +28,7 @@
     <div class="scroll_preview">
         <div class="scroll_content">
             <?php include("previews/ohne_zugehörigkeit/papierkorb.php");?>
+            <?php include("previews/die_standart_apps/finder.php");?>
             <?php include("previews/die_basics/die_ios_u_ipados_oberfläche.php");?>
             <?php include("previews/die_basics/apps.php");?>
         </div>
